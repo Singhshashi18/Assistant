@@ -1,4 +1,5 @@
 
+
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Lock, Mail } from 'lucide-react';
@@ -106,4 +107,5 @@ const LoginPage = () => {
 };
 
 export default LoginPage;
+
 
